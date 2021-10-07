@@ -35,3 +35,18 @@ La ciudad es tambíen conocida por su sabrosa comida y algunos platos más famos
 * Tortelli verdi e di zucca
 ![Imagen_4](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Tortelli_d'erbetta.jpg/1200px-Tortelli_d'erbetta.jpg)
 
+Es muy tradiciónal cocinar estos platos el domingo y comerlos juntos a tu familia. 
+
+Para cocinar el __erbazzone__ se necesita de:
+
+1. Pasta sfoglia
+    - Harina
+    - Agua
+    - Aceite de oliva
+
+2. Relleno
+    - Espinacas 
+    - Parmigiano Reggiano
+    - Tocino
+    - Perejil
+
