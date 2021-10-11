@@ -64,7 +64,7 @@ Cuando se quieren hacer citas **de texto** se pone el símbolo `>` antes de lo q
 
 -  Cuando se quota **una linea de codigo** se pone el símbolo ` antes y después del codigo.
 
-    ` int i` 
+    `int i`
 
 
  *Atención*: esta regla es solo valida por el codigo que solo se pone en un unica riga
@@ -77,6 +77,16 @@ i = 1
 i += 12
 ```
   
+## Links
+Para generar un link es necesario utilizar el siguente formato: `[link](URL)`.
+
+ Es **importante** que no hay espacios entre los corchetes y los paréntesis redondo.
+
+Por ejemplo el siguente [link](https://ull-esit-dmsi-1920.github.io/) nos transfiere a la pagína principal del curso de Desarrollo y Mantenimiento de Sistemas de Informaciones.
+
+## Imagenes
+
+
 
 
 
