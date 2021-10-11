@@ -86,8 +86,13 @@ Por ejemplo el siguente [link](https://ull-esit-dmsi-1920.github.io/) nos transf
 
 Es tambíen posible poner un enlace que se riefere a un otro file que es puesto sobre el repositorio.
 
-## Imagenes
+La [imagen](markdown-lauramanzini/pexels-lisa-fotios-1412146.jpg )
 
+## Imagenes
+Para poner una imagen se utiliza el siguente formato: `![link](URL)`.
+El utilizo del punto de escalada permite de añadir fotos en realación a un enlace.
+
+![foto](https://i1.wp.com/mochileroviajando.com/wp-content/uploads/2017/07/lavanda-francia4.jpg?resize=902%2C569&ssl=1)
 
 
 
