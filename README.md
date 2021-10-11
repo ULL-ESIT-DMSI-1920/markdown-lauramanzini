@@ -52,15 +52,15 @@ Se pueden tambíen combinar los diferentes formeatos de que acabamos de hablar.
  
  Del mismo modo se pueden hacer muchas más combinaciones.
 
-## Quotes
-### Quotar el texto
+# Quotes
+## Quotar el texto
 Cuando se quieren hacer citas **de texto** se pone el símbolo `>` antes de lo que va a ser una cita.
 
 `> esta es una cita`
  > esta es una cita
 
 
-### Quotar codigo
+## Quotar codigo
 
 -  Cuando se quota **una linea de codigo** se pone el símbolo ` antes y después del codigo.
 
@@ -77,7 +77,7 @@ i = 1
 i += 12
 ```
   
-## Links
+# Links
 Para generar un link es necesario utilizar el siguente formato: `[link](URL)`.
 
  Es **importante** que no hay espacios entre los corchetes y los paréntesis redondo.
@@ -86,14 +86,27 @@ Por ejemplo el siguente [link](https://ull-esit-dmsi-1920.github.io/) nos transf
 
 Es tambíen posible poner un enlace que se riefere a un otro file que es puesto sobre el repositorio.
 
-La [imagen](markdown-lauramanzini/pexels-lisa-fotios-1412146.jpg )
+La [imagen](markdown-lauramanzini/pexels-lisa-fotios-1412146.jpg ) [#2](https://github.com/ULL-ESIT-DMSI-1920/markdown-lauramanzini/issues/2)
 
-## Imagenes
+# Imagenes
 Para poner una imagen se utiliza el siguente formato: `![link](URL)`.
-El utilizo del punto de escalada permite de añadir fotos en realación a un enlace.
+El utilizo del punto de escalada al principio  permite de añadir fotos en realación a un enlace.
 
 ![foto](https://i1.wp.com/mochileroviajando.com/wp-content/uploads/2017/07/lavanda-francia4.jpg?resize=902%2C569&ssl=1)
 
+# Listas
+
+## Lista anidada
+
+
+
+# Task
+
+# Mencionar 
+
+# Hacer referencias
+
+# Utilizar emojis
 
 
 
