@@ -84,6 +84,8 @@ Para generar un link es necesario utilizar el siguente formato: `[link](URL)`.
 
 Por ejemplo el siguente [link](https://ull-esit-dmsi-1920.github.io/) nos transfiere a la pagína principal del curso de Desarrollo y Mantenimiento de Sistemas de Informaciones.
 
+Es tambíen posible poner un enlace que se riefere a un otro file que es puesto sobre el repositorio.
+
 ## Imagenes
 
 
