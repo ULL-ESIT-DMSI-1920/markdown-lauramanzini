@@ -50,3 +50,26 @@ Para cocinar el __erbazzone__ se necesita de:
     - Tocino
     - Perejil
 
+
+Algunas de las funcionalidades que se aprenden en el markdown son los diferentes formatos del texto.
+
+## Texto en italico
+El texto en italico se puede escribir en dos manera diferentes:
+
+* A traves del utilizo de _
+` _texto en italico_` es _texto en italico_
+
+* A traves del utilizo de * 
+` *texto en italico* ` es *texto en italico*
+
+## Texto en cursivo
+
+## Texto en negrita
+El texto en negrita se puede escribir en dos manera diferentes:
+
+* A traves del utilizo de dos _
+` __texto en negrita__` es __texto en negrita__
+
+* A traves del utilizo de dos *
+` **texto en italico** ` es **texto en italico** 
+
