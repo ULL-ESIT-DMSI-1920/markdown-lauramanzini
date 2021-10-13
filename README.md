@@ -126,12 +126,16 @@ Se puede también hacer lo mismo con lista ordenadas
 
 
 # Task
+Para crear una lista se utilizan los corchetes `[ ]` y para marcar tareas completadas se utiliza `[x]`.
+
+- [ ] task 1
+- [x] task 2
 
 # Mencionar 
 
+
 # Hacer referencias
 
-# Utilizar emojis
 
 
 
