@@ -4,6 +4,21 @@ Curso de Desarrollo y Mantenimiento de Sistemas de Informaciones
 
 **Laura Manzini**
 
+# Cabeceras 
+Las cabeceras son conocidas también como 'headers' y nos ayudan a desarrollar el texto y organizarlo.
+
+Se pueden haber más formados de cabeceras, que se utilizan ponendo el simbolo `#` seguido por un espacio y el texto. Basado en cuantos `#` se ponen hay diferentes estilos de cabeceras.
+
+`# Header1`  
+# Header1
+
+
+`## Header2`
+## Header2
+
+
+`### Header3`
+### Header3
 
 
 # Formato de texto
