@@ -86,16 +86,27 @@ Por ejemplo el siguente [link](https://ull-esit-dmsi-1920.github.io/) nos transf
 
 Es tambíen posible poner un enlace que se riefere a un otro file que es puesto sobre el repositorio.
 
-La [imagen](markdown-lauramanzini/pexels-lisa-fotios-1412146.jpg ) [#2](https://github.com/ULL-ESIT-DMSI-1920/markdown-lauramanzini/issues/2)
+La [imagen](./pexels-lisa-fotios-1412146.jpg)
 
 # Imagenes
 Para poner una imagen se utiliza el siguente formato: `![link](URL)`.
 El utilizo del punto de escalada al principio  permite de añadir fotos en realación a un enlace.
 
+```
+![foto](https://i1.wp.com/mochileroviajando.com/wp-content/uploads/2017/07/lavanda-francia4.jpg?resize=902%2C569&ssl=1)
+```
 ![foto](https://i1.wp.com/mochileroviajando.com/wp-content/uploads/2017/07/lavanda-francia4.jpg?resize=902%2C569&ssl=1)
 
-# Listas
+## Imágenes por referencia
+Para hacer una referencia a una imagen en el mismo repositorio se pone entre los corchetes redondos la routa para acceder a la imagen.
 
+```
+![campo de flores](./pexels-lisa-fotios-1412146.jpg)
+```
+![campo de flores](./pexels-lisa-fotios-1412146.jpg)
+
+
+# Listas
 Para crear una lista se utiliza el simbolo `*` o el simbolo `-` antes de cada línea.
 * esta  
 * es
