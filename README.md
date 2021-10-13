@@ -110,13 +110,19 @@ Para crear una lista ordenada se utilizan numeros seguidos da un punto antes de 
 4. lista
 
 ## Lista anidada
-Para crear una lista anidada se crea una lista en principio y para anidar cada elemneto se 
+Para crear una lista anidada a un primero elemento de una lista se utiliza la linea siguente y se alinea el simbolo `-` del segundo elemento con la primera letra del elemento anterior.
+
+Para anidar más elementos se procede de la misma manera.
 
 - Primer elemento
-    - Segundo elemento
-        - Tercero elemento
+  - Segundo elemento
+    - Tercero elemento
 
- 
+Se puede también hacer lo mismo con lista ordenadas
+
+11. Primero elemento
+   - Segundo elemento
+     - Tercero elemento     
 
 
 # Task
