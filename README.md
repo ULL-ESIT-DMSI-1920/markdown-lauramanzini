@@ -96,8 +96,27 @@ El utilizo del punto de escalada al principio  permite de añadir fotos en reala
 
 # Listas
 
-## Lista anidada
+Para crear una lista se utiliza el simbolo `*` o el simbolo `-` antes de cada línea.
+* esta  
+* es
+* una
+* lista
 
+## Lista ordenada
+Para crear una lista ordenada se utilizan numeros seguidos da un punto antes de cada línea.
+1. esta
+2. es
+3. una
+4. lista
+
+## Lista anidada
+Para crear una lista anidada se crea una lista en principio y para anidar cada elemneto se 
+
+- Primer elemento
+    - Segundo elemento
+        - Tercero elemento
+
+ 
 
 
 # Task
