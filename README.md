@@ -82,11 +82,20 @@ Para generar un link es necesario utilizar el siguente formato: `[link](URL)`.
 
  Es **importante** que no hay espacios entre los corchetes y los paréntesis redondo.
 
-Por ejemplo el siguente [link](https://ull-esit-dmsi-1920.github.io/) nos transfiere a la pagína principal del curso de Desarrollo y Mantenimiento de Sistemas de Informaciones.
+Por ejemplo el siguente codigo:
+```
+[link](https://i1.wp.com/mochileroviajando.com/wp-content/uploads/2017/07/lavanda-francia4.jpg?resize=902%2C569&ssl=1) 
+```
+nos transfiere al siguente [link](https://i1.wp.com/mochileroviajando.com/wp-content/uploads/2017/07/lavanda-francia4.jpg?resize=902%2C569&ssl=1) 
 
 Es tambíen posible poner un enlace que se riefere a un otro file que es puesto sobre el repositorio.
 
-La [imagen](./pexels-lisa-fotios-1412146.jpg)
+El siguente codigo:
+```
+[imagen](./pexels-lisa-fotios-1412146.jpg)
+```
+
+nos transfiere a la [imagen](./pexels-lisa-fotios-1412146.jpg) que es guardada en nuestro repositorio.
 
 # Imagenes
 Para poner una imagen se utiliza el siguente formato: `![link](URL)`.
@@ -150,6 +159,7 @@ El simbolo abre automaticamente una lista de persona o grupo de personas que sel
 La persona recibirá una notificacion sobre la mencíon.
 
 @lauramanzini
+
 
 # Hacer referencias
 Para referenciar issues que se han producido sobre el repositorio es suficiente utilizar el simbolo `#`.
