@@ -143,9 +143,25 @@ Para crear una lista se utilizan los corchetes `[ ]` y para marcar tareas comple
 - [x] task 2
 
 # Mencionar 
+En GitHub se pueden mencionar una persona o también un grupo de personas utilizando el simbolo `@`.
 
+El simbolo abre automaticamente una lista de persona o grupo de personas que seleccionar.
+
+La persona recibirá una notificacion sobre la mencíon.
+
+@lauramanzini
 
 # Hacer referencias
+Para referenciar issues que se han producido sobre el repositorio es suficiente utilizar el simbolo `#`.
+
+El simbolo abre una lista de issues que se pueden referenciar.
+
+Seleccionando `#1` el GitHub te permite de acceder a el issue 1 `[#1](https://github.com/ULL-ESIT-DMSI-1920/markdown-lauramanzini/issues/1)`
+
+
+
+
+
 
 
 
